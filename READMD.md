@@ -1,1 +1,0 @@
-# Practice repo for js and web dev.
